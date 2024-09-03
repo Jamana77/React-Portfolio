@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Web Developer Intern",
+    "organisation": "Infolabz PVT. LTD.",
+    "startDate": "January, 2024 -",
+    "endDate": "April, 2024",
+    "location": "Navrangpura,Ahmedabad",
+    "experiences": [
+      "Worked on A Website For Plastic Industry",
+      "Worked with the Infolabz Senior Team"
+    ],
+    "imageSrc": "company/Infolabz.png"
+  },
+  {
+    "id": 2,
+    "role": "Full Stack Development Engineer",
+    "organisation": "Gujarat Technological University",
+    "startDate": "March, 2023 - ",
+    "endDate": "Aug, 2023",
+    "location": "Ahmedabad, Gujarat",
+    "experiences": [
+      "Worked on Django Web Framework",
+      "Worked on Django's  features"
+    ],
+    "imageSrc": "company/gtu.png"
+  }
+]

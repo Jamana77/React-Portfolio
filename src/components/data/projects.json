@@ -1,0 +1,25 @@
+[
+  {
+    "key": 1,
+    "title": "Online Food Gallery",
+    "imageSrc": "assets/project/food1.jpg",
+    "description": "This is a project made with complete Python-Django and Bootstrap."
+    
+    
+  },
+  {
+    "key": 2,
+    "title": "Plastic Industry - Ecommerce",
+    "imageSrc": "assets/project/pvc2.jpg",
+    "description": "This is a project made with complete Python-Django."
+    
+  },
+  
+  {
+    "key": 3,
+    "title": "React Recipe",
+    "imageSrc": "assets/project/recipejpg.jpg",
+    "description": "This is a project made with complete React js and Bootstrap.It is Completely Responsive Website"
+    
+  }
+]
