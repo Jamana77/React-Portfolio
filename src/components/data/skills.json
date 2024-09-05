@@ -5,35 +5,35 @@
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "assets/skills/css.png"
   },
   {
     "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "assets/skills/javascript.png"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "assets/skills/react.png"
   },
   {
       "title":"Python-Django",
-      "imageSrc":"skills/python.jpg"
+      "imageSrc":"assets/skills/python.jpg"
   },
 
 
 
   {
     "title":"Bootstrap",
-    "imageSrc":"skills/bs.jpg"
+    "imageSrc":"assets/skills/bs.jpg"
   },
   
   
   {
     "title": "SQL",
-    "imageSrc": "skills/db.jpg"
+    "imageSrc": "assets/skills/db.jpg"
   },
   {
     "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "imageSrc": "assets/skills/figma.png"
   }
 ]
