@@ -21,7 +21,7 @@ const Projects = () => {
                     {data.title}
                 </h5>
                 <p className="card-text">{data.description}</p>
-                
+              
               </div>
             </div>
            </div>
